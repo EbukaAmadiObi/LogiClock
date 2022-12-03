@@ -2,7 +2,7 @@
  A Digital Clock simulated in Logisim
  
 ## Introduction
-In Lab 4, I designed a digital clock that can display hours, minutes, and seconds in decimal numbers on a 7-segment LED display as “HH:MM:SS”. In this project, I added the following functionalities into the digital clock:
+Previously, I designed a digital clock that can display hours, minutes, and seconds in decimal numbers on a 7-segment LED display as “HH:MM:SS”. In this project, I added the following functionalities into the digital clock:
 
 1.	The option for the clock to be changed from 24-hour mode to 12-hour mode. In 12-hour mode, use “A” on LED indicates AM and “P” indicates PM.  
 2.	An alarm feature where an LED flashing is activated at a chosen time.
@@ -12,7 +12,7 @@ In Lab 4, I designed a digital clock that can display hours, minutes, and second
 To keep the report short, the process of designing the basic clock will not be outlined. Only the additional features described above will be explained in detail.
  
 ## 1. The Motherboard
-In order to expand from the original simple 24-hour clock in Lab 4, a more complex set of
+In order to expand from the original simple 24-hour clock, a more complex set of
 circuits was necessary. To keep everything simple and organised, the motherboard was
 divided into sections, each section fulfilling a particular purpose.
 
